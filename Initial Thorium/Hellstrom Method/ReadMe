@@ -1,1 +1,5 @@
-Hellstrom, (2006) algorithm for estimation of initial thorium correction   
+Python code for estimating a unique global initial thorium correction for a Speleothem. This apporach is based on the Hellstrom, (2006) algorithm. The code is written in a stand alone python class that can then be read in to a jupyter notebook or any other python environment to run. The user is required to input the activity ratios: Th230/U238, Th232/U238, and U234/U238 and their uncerainties (1sigma). An example jupyter notebook is uploaded to show how to run this class. The two studies reported by Hellstrom (2006) are used as examples to show this methodology compared to Hellstrom (2006). 
+
+
+
+Hellstrom, J., 2006. U–Th dating of speleothems with high initial 230Th using stratigraphical constraint. Quaternary Geochronology, 1(4), pp.289-295.
